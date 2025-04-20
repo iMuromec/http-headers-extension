@@ -1,0 +1,9 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" rx="16" fill="#1B1E2F"/>
+  <text x="20" y="40" font-family="monospace" font-size="16" font-weight="bold" fill="#FFFFFF">GET:</text>
+  <text x="20" y="65" font-family="monospace" font-size="16" font-weight="bold" fill="#FFFFFF">HTTP/1.1</text>
+  <text x="104" y="65" font-family="monospace" font-size="16" font-weight="bold" fill="#EF4444">200</text>
+  <line x1="20" y1="80" x2="108" y2="80" stroke="#3B4167" stroke-width="2"/>
+  <text x="20" y="100" font-family="monospace" font-size="12" fill="#FFFFFF">content-type</text>
+  <text x="20" y="118" font-family="monospace" font-size="12" fill="#FFFFFF">date</text>
+</svg>
