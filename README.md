@@ -14,8 +14,9 @@ A Chrome extension for viewing HTTP(S) headers with a minimal, elegant interface
 
 ## Screenshots
 
-![Extension Popup](screenshots/popup.png)
 ![Status Badge](screenshots/badge.png)
+![Extension Popup](screenshots/popup.png)
+![404 Error Page](screenshots/404.png)
 
 ## Installation
 
@@ -39,8 +40,6 @@ _(Coming soon)_
 4. See all response headers in an easy-to-read format
 5. Click on any header row to copy it to clipboard
 
-For more detailed instructions, check the [documentation](docs/DOCUMENTATION.md).
-
 ## Privacy & Security
 
 This extension:
@@ -49,8 +48,6 @@ This extension:
 - Processes all data locally within your browser
 - Does not transmit any data to external servers
 - Does not track browsing history or collect personal information
-
-For complete details, read our [Privacy Policy](docs/PRIVACY.md) and [Security Audit Report](docs/SECURITY_AUDIT.md).
 
 ## Project Structure
 
